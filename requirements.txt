@@ -5,3 +5,4 @@ pytest>=8.0
 jupyter>=1.0
 fastapi>=0.111
 uvicorn>=0.29
+yfinance>=0.2
